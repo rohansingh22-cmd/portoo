@@ -18,6 +18,8 @@ SMA Charitas Jakarta – 2019-2022
 Projects
 Feel free to browse through my repositories to see some of the projects I’ve worked on. I love solving problems through code and building web applications that help people. More exciting projects will be added soon!
 
+project yang perah gua bikin :https://github.com/rohansingh22-cmd/portoo/blob/main/Software%20Factory%20for%20Developing%20Chat-bots%20in%20Smart%20Tourism%20Mobile%20Application%20%20(1).docx
+
 Connect with Me
 I actively use my LinkedIn profile as a hub for networking with industry professionals and seeking out opportunities to work on impactful projects.
 
